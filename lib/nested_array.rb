@@ -1,6 +1,6 @@
 # Examples inspired by U. S. National Organic Standards
 
-https://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash-programming-as-conversation-arrays-and-hashes-quiz
+
 CONVENTIONAL_PRODUCE = [
   "Grapefruit",
   "Pineapple",
