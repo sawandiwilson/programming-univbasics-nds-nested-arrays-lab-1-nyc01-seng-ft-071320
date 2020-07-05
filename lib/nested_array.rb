@@ -19,7 +19,12 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   CONVENTIONAL_PRODUCE = [
        #0             #1        #2        #3            #4
-  ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]]
+  ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]] # 0
+  
+  ORGANIC_PRODUCE = [
+      #0              #1          #2        #3            #4
+  ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]] #1
+  
 end
 
 def sorted_matrix
