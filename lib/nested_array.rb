@@ -17,7 +17,14 @@ CONVENTIONAL_PRODUCE = [
 def assembled_matrix
   # Build an array that contains both of the above arrays
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
-  [CONVENTIONAL_PRODUCE, ORGANIC PRODUCE]
+ CONVENTIONAL_PRODUCE = [
+       #0             #1        #2        #3            #4
+  ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]] # 0
+  
+  ORGANIC_PRODUCE = [
+      #0              #1          #2        #3            #4
+  ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]] #1
+  ]
   
 end
 
