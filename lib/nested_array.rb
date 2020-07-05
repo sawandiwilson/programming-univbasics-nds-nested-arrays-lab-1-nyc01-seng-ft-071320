@@ -18,7 +18,7 @@ def assembled_matrix
   # Build an array that contains both of the above arrays
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   CONVENTIONAL_PRODUCE = [
-  "Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
+  ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]]
 end
 
 def sorted_matrix
